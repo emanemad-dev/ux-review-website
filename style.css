@@ -85,7 +85,31 @@ body {
     box-shadow: 2px 2px 0px var(--black);
 }
 
+.navbar-brand span {
+    color: #FF6900 !important;
+}
+
 /* Buttons */
+.btn-subscribe{
+    border-radius: 0;
+    background-color: #FFD15B;
+    color: var(--black);
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: all 0.2s ease;
+    border: 3px solid var(--black);
+}
+
+.btn-subscribe:hover {
+    border-radius: 0;
+    background-color: #FFD15B;
+    color: var(--black);
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: all 0.2s ease;
+ 
+}
+
 .btn-base {
     border-radius: 0;
     border: 3px solid var(--black);
@@ -189,10 +213,10 @@ body {
 
 .hero-highlight {
     color: var(--pink-accent);
-text-shadow: 3px 3px 0 var(--pink-accent) !important;
+    text-shadow: 3px 3px 0 var(--pink-accent) !important;
 }
 
-.hero-BRUTAL{
+.hero-BRUTAL {
     color: #000000;
     text-shadow: 3px 3px 0 #000000 !important;
 }
