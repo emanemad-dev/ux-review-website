@@ -1,3 +1,4 @@
+**🚀 The UX Review**
 **Brutal, unfiltered thoughts on tech & design**
 
 **🔥 Where raw honesty meets cutting-edge digital culture. A minimalist digital magazine that strips away corporate jargon to deliver unfiltered insights on technology, design trends, and digital innovation. Built for rebels who value substance over style and truth over trends**.
