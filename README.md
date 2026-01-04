@@ -3,7 +3,7 @@
 
 **🔥 Where raw honesty meets cutting-edge digital culture. A minimalist digital magazine that strips away corporate jargon to deliver unfiltered insights on technology, design trends, and digital innovation. Built for rebels who value substance over style and truth over trends**.
 
-🌐 **Live Demo:** [View Here](https://www.awesomescreenshot.com/video/47760658?key=f69cc309934982456105fb8c7bdb7927))
+🌐 **Live Demo:** [View Here](https://sweet-souffle-341a26.netlify.app/))
 
 ## 🛠️ Tech Stack
 - **HTML5** - Structure
